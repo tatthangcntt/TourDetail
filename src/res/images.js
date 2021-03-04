@@ -1,0 +1,23 @@
+const images = {
+  Back: require('./images/Back.png'),
+  Closed: require('./images/Closed.png'),
+  CovidProtect: require('./images/CovidProtect.png'),
+  Duration: require('./images/Duration.png'),
+  Fav: require('./images/Fav.png'),
+  Forward: require('./images/Forward.png'),
+  FreeCancelation: require('./images/FreeCancelation.png'),
+  Group: require('./images/Group.png'),
+  Heart: require('./images/Heart.png'),
+  HeartButton: require('./images/HeartButton.png'),
+  Language: require('./images/Language.png'),
+  Location: require('./images/Location.png'),
+  Love: require('./images/Love.png'),
+  NoAvatar: require('./images/NoAvatar.png'),
+  Pickup: require('./images/Pickup.png'),
+  Share: require('./images/Share.png'),
+  Star: require('./images/Star.png'),
+  checked: require('./images/checked.png'),
+  noPhoto: require('./images/noPhoto.png'),
+  uncheck: require('./images/uncheck.png'),
+};
+export default images;
