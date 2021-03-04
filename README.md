@@ -29,6 +29,8 @@ react-native run-android
 ##### 4. Main source 
 ```
 inside src/
+List Tour screen: src/screens/Tour/ListTour.js
+Tour Detail screen: src/screens/Tour/TourDetail.js
 ```
 ##### 4. Run test API schema 
 
