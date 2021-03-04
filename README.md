@@ -26,8 +26,11 @@ build device Android:
 cd TourDetail
 react-native run-android
 ```
-
-### 4. Run test API schema 
+##### 4. Main source 
+```
+inside src/
+```
+##### 4. Run test API schema 
 
 ```
   Run SchemaLogin-test.js to check login Api schema change or not.
@@ -35,7 +38,7 @@ react-native run-android
   yarn test
 
 ```
-#### 4. Video demo
+##### 5. Video demo
 [![Watch the video](https://img.youtube.com/vi/9SDXIx6fhBo/maxresdefault.jpg)](https://youtu.be/9SDXIx6fhBo)
 
 
