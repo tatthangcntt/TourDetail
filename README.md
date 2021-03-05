@@ -1,7 +1,8 @@
 # TourDetail
 
 ## Get Started
-
+##### Video demo
+[![Watch the video](https://img.youtube.com/vi/9SDXIx6fhBo/maxresdefault.jpg)](https://youtu.be/9SDXIx6fhBo)
 ##### 1.Clone the project
 
 ```
@@ -40,7 +41,6 @@ Tour Detail screen: src/screens/Tour/TourDetail.js
   yarn test
 
 ```
-##### 5. Video demo
-[![Watch the video](https://img.youtube.com/vi/9SDXIx6fhBo/maxresdefault.jpg)](https://youtu.be/9SDXIx6fhBo)
+
 
 
