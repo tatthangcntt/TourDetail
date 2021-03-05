@@ -2,7 +2,7 @@
 
 ## Get Started
 ##### Video demo
-[![Watch the video](https://img.youtube.com/vi/9SDXIx6fhBo/maxresdefault.jpg)](https://youtu.be/9SDXIx6fhBo)
+[![Watch the video]](https://youtu.be/9SDXIx6fhBo)
 ##### 1.Clone the project
 
 ```
